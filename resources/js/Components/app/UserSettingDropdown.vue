@@ -33,6 +33,6 @@
 
 <script setup>
 import { Menu, MenuButton, MenuItems, MenuItem } from '@headlessui/vue'
-import { ChevronDownIcon, ArrowRightOnRectangleIcon, UserIcon } from '@heroicons/vue/20/solid'
+import { ChevronDownIcon } from '@heroicons/vue/20/solid'
 import ResponsiveNavLink from '@/Components/ResponsiveNavLink.vue';
 </script>
